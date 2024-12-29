@@ -2,3 +2,4 @@ basic/.ipynb_checkpoints/
 .ipynb_checkpoints
 anaconda_projects
 .DS_Store
+__pycache__
